@@ -1,3 +1,4 @@
+# Code taken from https://github.com/CV-IP/VerticalAttentionOCR/tree/master/basic
 import editdistance
 import numpy as np
 import cv2

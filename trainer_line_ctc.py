@@ -1,3 +1,4 @@
+# Code taken from https://github.com/CV-IP/VerticalAttentionOCR/tree/master/OCR/line_OCR/ctc
 from basic.generic_training_manager import GenericTrainingManager
 from basic.utils import edit_wer_from_list, nb_words_from_list, nb_chars_from_list, LM_ind_to_str
 import editdistance

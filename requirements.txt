@@ -1,0 +1,11 @@
+apex==0.9.10.dev0
+editdistance==0.8.1
+numpy==2.3.0
+opencv_python==4.11.0.86
+Pillow==11.2.1
+scikit_learn==1.7.0
+skimage==0.0
+torch==2.4.1
+torchvision==0.19.1
+tqdm==4.67.1
+

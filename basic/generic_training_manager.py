@@ -1,3 +1,4 @@
+# Code taken from https://github.com/CV-IP/VerticalAttentionOCR/tree/master/basic
 import torch
 import os
 try:

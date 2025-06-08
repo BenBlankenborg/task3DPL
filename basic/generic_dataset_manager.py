@@ -1,3 +1,4 @@
+# Code taken from https://github.com/CV-IP/VerticalAttentionOCR/tree/master/basic
 from torch.utils.data import Dataset, DataLoader
 from torch.utils.data.distributed import DistributedSampler
 from torchvision.transforms.functional import adjust_brightness, adjust_contrast

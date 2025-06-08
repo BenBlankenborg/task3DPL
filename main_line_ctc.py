@@ -1,3 +1,4 @@
+# Code taken from https://github.com/CV-IP/VerticalAttentionOCR/tree/master/OCR/line_OCR/ctc
 import sys
 sys.path.insert(0, '../../..')
 from trainer_line_ctc import TrainerLineCTC

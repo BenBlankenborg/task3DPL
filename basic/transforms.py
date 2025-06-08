@@ -1,3 +1,4 @@
+# Code taken from https://github.com/CV-IP/VerticalAttentionOCR/tree/master/basic
 import itertools
 import numpy as np
 from skimage import transform as stf

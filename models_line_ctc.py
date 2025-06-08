@@ -1,3 +1,4 @@
+# Code taken from https://github.com/CV-IP/VerticalAttentionOCR/tree/master/OCR/line_OCR/ctc
 import torch
 from torch.nn.functional import log_softmax
 from torch.nn import Conv2d, AdaptiveMaxPool2d

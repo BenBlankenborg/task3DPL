@@ -1,3 +1,4 @@
+# Code taken from https://github.com/CV-IP/VerticalAttentionOCR/tree/master/basic
 from torch.nn import Module, ModuleList
 from torch.nn import Conv2d, InstanceNorm2d, Dropout, Dropout2d
 from torch.nn import ReLU
